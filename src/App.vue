@@ -1,7 +1,7 @@
 <template>
   <div class="min-h-screen flex flex-col items-center justify-center bg-gray-100">
     <header class="bg-blue-600 text-white w-full py-4 text-center shadow-md">
-      <h1 class="text-3xl font-bold">ADSO</h1>
+      <h1 class="text-3xl font-bold">LINEX</h1>
     </header>
 
     <main class="flex flex-col items-center w-full max-w-md p-6 mt-6 bg-white shadow-lg rounded-lg">
