@@ -18,6 +18,10 @@
         <button type="submit" class="w-full bg-blue-500 text-white p-2 rounded hover:bg-blue-600">
           Enviar Enlace de Restablecimiento
         </button>
+
+        <div>
+          <RouterLink :to="{ name: 'login' }">Login</RouterLink>
+        </div>
       </form>
     </div>
   </div>
